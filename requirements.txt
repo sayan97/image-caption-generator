@@ -1,0 +1,8 @@
+Flask==2.2.5          # For the web framework
+torch==2.0.1          # PyTorch (ensure compatibility with cloud environment)
+torchvision==0.15.2   # PyTorch's vision library
+Pillow==9.5.0         # For image processing
+numpy==1.24.2         # Numerical computations
+gunicorn==20.1.0      # Production WSGI server for deployment
+ipykernel
+dill
