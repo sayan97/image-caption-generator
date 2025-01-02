@@ -3,3 +3,11 @@ This repository contains an implementation of an Image Caption Generator web app
 
 # Demo
 https://github.com/user-attachments/assets/fae48f6d-e29f-4332-987e-c6b9c46d41b9
+
+# How to use this repository
+- **Step1:** Clone the repository `git clone https://github.com/sayan97/image-caption-generator.git`
+- **Step2:** Change directory to `image-caption-generator`
+- **Step3:** Create a virtual environment `conda create -n image-caption-generator python==3.8`
+- **Step3:** Activate the virtual environment `conda activate image-caption-generator`
+- **Step4:** Install required libraries `pip install -r requirements.txt`
+- **Step5:** Run `app.py`
